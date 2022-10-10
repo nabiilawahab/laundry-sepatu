@@ -90,7 +90,7 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Our Process</span>
-                            <h2>Cara Kerja Kami</h2>
+                            <h2>This is how we work</h2>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                                 <img src="assets/img/icon/spt.jpeg" alt="" style="width:105px; heigth:105px">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Kami Mengumpulkan Sepatu Anda</a></h5>
+                                <h5><a href="services.html">We Collect Your Shoes</a></h5>
                                 <p>Anda dapat mengirimkan sepatu yang perlu pencucian ke store kami</p>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                 <img src="assets/img/icon/services-icon2.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Proses Pencucian Sepatu</a></h5>
+                                <h5><a href="services.html">Wash Your Shoes</a></h5>
                                 <p>Proses ini berlangsung setelah sepatu anda telah kami terima.</p>
                             </div>
                         </div>
@@ -123,7 +123,7 @@
                                 <img src="assets/img/icon/services-icon3.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Sepatu Anda telah bersih seperti baru!</a></h5>
+                                <h5><a href="services.html">Your shoes clean like brandnew!</a></h5>
                                 <p>Anda bisa langsung mengambil sepatu yang telah bersih di store kami.</p>
                             </div>
                         </div>
@@ -311,7 +311,7 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Fun Fact</span>
-                            <h2>Pencapaian Kami</h2>
+                            <h2>Company Achievement</h2>
                         </div>
                     </div>
                 </div>
@@ -398,7 +398,7 @@
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Punya sepatu kotor? Atau sudah menguning? Jangan khawatir! Barokah laundry shoes solusinya! Percayakan sepatu anda kepada kami</p>
+                                <p>Your shoes dirty? Or has it turned yellow? Don't worry! Barokah Laundry Shoes are the solution! Send your shoes to us and we will clean it until it looks like brandnew shoes</p>
                             </div>
                         </div>
                         <!-- social -->
