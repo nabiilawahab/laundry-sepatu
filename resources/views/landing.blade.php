@@ -45,7 +45,6 @@
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/services">Services</a></li>
                                     <li><a href="/contact">Contact</a></li>
-                                    <li><a href="/testimoni">Testimoni</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -99,7 +98,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-cat text-center">
                             <div class="cat-icon">
-                                <img src="assets/img/icon/sepatu.svg" alt="">
+                                <img src="assets/img/icon/spt.jpeg" alt="" style="width:105px; heigth:105px">
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Kami Mengumpulkan Sepatu Anda</a></h5>
@@ -183,7 +182,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/service1.jpg" alt="" class=" w-100">
+                            <img src="assets/img/gallery/service3.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -193,8 +192,8 @@
                                 <div class="cat-icon">
                                 </div>
                                 <div class="cat-cap">
-                                    <h5><a href="services.html">Deep Cleansing</a></h5>
-                                    <p>Treatment untuk semua jenis sepatu dengan membersihkan noda secara detail pada seluruh bagian dan aman untuk semua bahan</p>
+                                    <h5><a href="services.html">Fast Cleansing</a></h5>
+                                    <p>Treatment pencucian cepat dengan material sepatu yang dicuci hanya bagian Upper dan midsole</p>
                                 </div>
                             </div>
                         </div>
@@ -206,15 +205,15 @@
                                 <div class="cat-icon">
                                 </div>
                                 <div class="cat-cap">
-                                    <h5><a href="services.html">Whitening</a></h5>
-                                    <p>Treatment pencucian khusus untuk sepatu berbahan canvas dan mesh berwarna putih dengan noda kuning ataupun saus</p>
+                                    <h5><a href="services.html">Repaint</a></h5>
+                                    <p>Treatment pewarnaan untuk sepatu berbahan canvas dan suede</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/service2.jpg" alt="" class=" w-100">
+                            <img src="assets/img/gallery/service4.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                 </div>
@@ -416,10 +415,10 @@
                     <div class="footer-tittle">
                         <h4>Layanan Kami </h4>
                         <ul>
-                            <li><a href="#">- Deep Clean</a></li>
-                            <li><a href="#">- Express Clean</a></li>
-                            <li><a href="#">- Unyellowing</a></li>
-                            <li><a href="#">- Quick Clean</a></li>
+                            <li><a href="#">- Deep Cleansing</a></li>
+                            <li><a href="#">- Whitening</a></li>
+                            <li><a href="#">- Fast Cleansing</a></li>
+                            <li><a href="#">- Repaint</a></li>
                         </ul>
                     </div>
                 </div>

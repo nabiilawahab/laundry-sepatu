@@ -52,7 +52,7 @@
                         <div class="main-menu d-none d-lg-block">
                             <nav> 
                                 <ul id="navigation">                                                                                          
-                                    <li><a href="/home">test</a></li>
+                                    <li><a href="/home">Home</a></li>
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/services">Services</a></li>
                                     <li><a href="/contact">Contact</a></li>
@@ -66,8 +66,8 @@
                     </div>
                 </div> 
                 <div class="header-right d-none d-lg-block">
-                    <a href="#" class="header-btn1"><img src="assets/img/icon/call.png" alt=""> (08) 728 256 266</a>
-                    <a href="#" class="header-btn2">Make an Appointment</a>
+                    <a href="#" class="header-btn1"><img src="assets/img/icon/call.png" alt=""> 0856-4638-2081</a>
+                    <a href="#" class="header-btn2">Login</a>
                 </div>
                 <!-- Mobile Menu -->
                 <div class="col-12">
@@ -100,7 +100,7 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Our Process</span>
-                            <h2>This is how we work</h2>
+                            <h2>Cara Kerja Kami</h2>
                         </div>
                     </div>
                 </div>
@@ -108,11 +108,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-cat text-center">
                             <div class="cat-icon">
-                                <img src="assets/img/icon/services-icon1.svg" alt="">
+                                <img src="assets/img/icon/spt.jpeg" alt="" style="width:105px; heigth:105px">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">We collect your clothes</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <h5><a href="services.html">Kami Mengumpulkan Sepatu Anda</a></h5>
+                                <p>Anda dapat mengirimkan sepatu yang perlu pencucian ke store kami</p>
                             </div>
                         </div>
                     </div>
@@ -122,8 +122,8 @@
                                 <img src="assets/img/icon/services-icon2.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Wash your clothes</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <h5><a href="services.html">Proses Pencucian Sepatu</a></h5>
+                                <p>Proses ini berlangsung setelah sepatu anda telah kami terima.</p>
                             </div>
                         </div>
                     </div>
@@ -133,8 +133,8 @@
                                 <img src="assets/img/icon/services-icon3.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Get delivery</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <h5><a href="services.html">Sepatu Anda telah bersih seperti baru!</a></h5>
+                                <p>Anda bisa langsung mengambil sepatu yang telah bersih di store kami.</p>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                 <div class="row no-gutters">
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers1.png" alt="" class=" w-100">
+                            <img src="assets/img/gallery/service1.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -164,11 +164,10 @@
                             <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
                             <div class="offers-caption text-center">
                                 <div class="cat-icon">
-                                    <img src="assets/img/icon/offers-icon1.png" alt="">
                                 </div>
                                 <div class="cat-cap">
-                                    <h5><a href="services.html">Cloth laundry</a></h5>
-                                    <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!!</p>
+                                    <h5><a href="services.html">Deep Cleansing</a></h5>
+                                    <p>Treatment untuk semua jenis sepatu dengan membersihkan noda secara detail pada seluruh bagian dan aman untuk semua bahan</p>
                                 </div>
                             </div>
                         </div>
@@ -178,18 +177,53 @@
                             <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
                             <div class="offers-caption text-center">
                                 <div class="cat-icon">
-                                    <img src="assets/img/icon/offers-icon1.png" alt="">
                                 </div>
                                 <div class="cat-cap">
-                                    <h5><a href="services.html">Cloth ironing</a></h5>
-                                    <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!!</p>
+                                    <h5><a href="services.html">Whitening</a></h5>
+                                    <p>Treatment pencucian khusus untuk sepatu berbahan canvas dan mesh berwarna putih dengan noda kuning ataupun saus</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers4.png" alt="" class=" w-100">
+                            <img src="assets/img/gallery/service2.jpg" alt="" class=" w-100">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="single-offers">
+                            <img src="assets/img/gallery/service3.jpg" alt="" class=" w-100">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="single-offers">
+                            <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
+                            <div class="offers-caption text-center">
+                                <div class="cat-icon">
+                                </div>
+                                <div class="cat-cap">
+                                    <h5><a href="services.html">Fast Cleansing</a></h5>
+                                    <p>Treatment pencucian cepat dengan material sepatu yang dicuci hanya bagian Upper dan midsole</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="single-offers">
+                            <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
+                            <div class="offers-caption text-center">
+                                <div class="cat-icon">
+                                </div>
+                                <div class="cat-cap">
+                                    <h5><a href="services.html">Repaint</a></h5>
+                                    <p>Treatment pewarnaan untuk sepatu berbahan canvas dan suede</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="single-offers">
+                            <img src="assets/img/gallery/service4.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                 </div>
@@ -215,77 +249,7 @@
             </section>
         </section>
         <!-- Want To work End -->
-        <!--? Testimonials_start -->
-        <section class="testimonials-area testimonials-overly  position-relative">
-            <div class="container">
-                <div class="border-bottom section-padding40 ">
-                    <div class="row">
-                        <div class="col-xl-12 ">
-                            <!-- testmonial-image -->
-                            <div class="testmonial-nav text-center">
-                                <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila1.png" alt="">
-                                </div>
-                                <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila2.png" alt="">
-                                </div>
-                                <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila3.png" alt="">
-                                </div>
-                                <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="testmonial-item-active text-center">
-                                <!-- testimonial-single-items -->
-                                <div class="testmonial-item ">
-                                    <p class="pera">The automated process starts as soon as your clothes go into the<br> machine. The outcome is gleaming clothes!</p>
-                                    <div class="rating">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <p> - Rupaya</p>
-                                </div>
-                                <!-- testimonial-single-items -->
-                                <div class="testmonial-item ">
-                                    <p class="pera">The automated process starts as soon as your clothes go into the<br> machine. The outcome is gleaming clothes!</p>
-                                    <div class="rating">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <p> - Rupaya</p>
-                                </div>
-                                <!-- testimonial-single-items -->
-                                <div class="testmonial-item ">
-                                    <p class="pera">The automated process starts as soon as your clothes go into the<br> machine. The outcome is gleaming clothes!</p>
-                                    <div class="rating">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <p> - Rupaya</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Testimonials_end -->
 
-        <!--?  Map Area start  -->
-        <div class="Map-area">
-            <img src="assets/img/gallery/Map.png" alt="" class="w-100">
-        </div>
-        <!-- Map Area End -->
     </main>
     <footer>
         <!-- Footer Start-->
@@ -301,7 +265,7 @@
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                                <p>Punya sepatu kotor? Atau sudah menguning? Jangan khawatir! Barokah laundry shoes solusinya! Percayakan sepatu anda kepada kami</p>
                             </div>
                         </div>
                         <!-- social -->
@@ -316,13 +280,12 @@
             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                 <div class="single-footer-caption mb-50">
                     <div class="footer-tittle">
-                        <h4>Services </h4>
+                        <h4>Layanan Kami </h4>
                         <ul>
-                            <li><a href="#">- Dry Cleaning</a></li>
-                            <li><a href="#">- Dry Clean</a></li>
-                            <li><a href="#">- Ironing Services</a></li>
-                            <li><a href="#">- Laundry Service London</a></li>
-                            <li><a href="#">- Laundry App</a></li>
+                            <li><a href="#">- Deep Cleansing</a></li>
+                            <li><a href="#">- Whitening</a></li>
+                            <li><a href="#">- Fast Cleansing</a></li>
+                            <li><a href="#">- Repaint</a></li>
                         </ul>
                     </div>
                 </div>
@@ -332,9 +295,10 @@
                     <div class="footer-tittle">
                         <h4>Get in touch</h4>
                         <ul>
-                            <li class="number"><a href="#">(90) 898 789-8957</a></li>
-                            <li><a href="#">laundry@567.com</a></li>
-                            <li><a href="#">789/A, Green road NYC-9089</a></li>
+                            <li class="number"><a href="#">0856-4638-2081 </a></li>
+                            <li><a href="#">Instagram: @barokahlaundryshoes</a></li>
+                            <li><a href="#">Line: @barokahLS</a></li>
+                            <li><a href="#">Addres: jl Gubeng Kertajaya 7J/16- Gubeng-Surabaya</a></li>
                         </ul>
                     </div>
                 </div>
