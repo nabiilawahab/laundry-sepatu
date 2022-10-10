@@ -79,7 +79,7 @@
     </header>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/hero2.png">
+        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/4.jpg">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -192,21 +192,21 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Buttonwood, California.</h3>
-                                <p>Rosemead, CA 91770</p>
+                                <h3>Jl. Gubeng Kertajaya 7j No 16</h3>
+                                <p>Gubeng, Surabaya</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>+1 253 565 2365</h3>
-                                <p>Mon to Fri 9am to 6pm</p>
+                                <h3>0856-4638-2081</h3>
+                                <p>Monday to Friday 9am to 6pm</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>support@colorlib.com</h3>
+                                <h3>@barokahlaundryshoes</h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
@@ -217,8 +217,9 @@
         <!-- Contact Area End -->
     </main>
     <footer>
-        <!-- Footer Start-->
-        <div class="footer-area footer-padding">
+
+<!-- Footer Start-->
+<div class="footer-area footer-padding">
             <div class="container">
                 <div class="row d-flex justify-content-between">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6">
@@ -230,7 +231,7 @@
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                                <p>Your shoes dirty? Or has it turned yellow? Don't worry! Barokah Laundry Shoes are the solution! Send your shoes to us and we will clean it until it looks like brandnew shoes</p>
                             </div>
                         </div>
                         <!-- social -->
@@ -245,13 +246,12 @@
             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                 <div class="single-footer-caption mb-50">
                     <div class="footer-tittle">
-                        <h4>Services </h4>
+                        <h4>Layanan Kami </h4>
                         <ul>
-                            <li><a href="#">- Dry Cleaning</a></li>
-                            <li><a href="#">- Dry Clean</a></li>
-                            <li><a href="#">- Ironing Services</a></li>
-                            <li><a href="#">- Laundry Service London</a></li>
-                            <li><a href="#">- Laundry App</a></li>
+                            <li><a href="#">- Deep Cleansing</a></li>
+                            <li><a href="#">- Whitening</a></li>
+                            <li><a href="#">- Fast Cleansing</a></li>
+                            <li><a href="#">- Repaint</a></li>
                         </ul>
                     </div>
                 </div>
@@ -261,9 +261,10 @@
                     <div class="footer-tittle">
                         <h4>Get in touch</h4>
                         <ul>
-                            <li class="number"><a href="#">(90) 898 789-8957</a></li>
-                            <li><a href="#">laundry@567.com</a></li>
-                            <li><a href="#">789/A, Green road NYC-9089</a></li>
+                            <li class="number"><a href="#">0856-4638-2081 </a></li>
+                            <li><a href="#">Instagram: @barokahlaundryshoes</a></li>
+                            <li><a href="#">Line: @barokahLS</a></li>
+                            <li><a href="#">Addres: jl Gubeng Kertajaya 7J/16- Gubeng-Surabaya</a></li>
                         </ul>
                     </div>
                 </div>

@@ -18,12 +18,13 @@ Route::get('/', function () {
 });
 
 Route::get('/home', function () {
-    return view('home');
+    return view('landing');
 });
 
 Route::get('/about', function () {
     return view('landabout');
 });
+
 Route::get('/contact', function () {
     return view('contact');
 });
@@ -35,5 +36,8 @@ Route::get('/testimoni', function () {
 });
 Route::get('/login', function () {
     return view('login');
+});
+Route::get('/dashboardAdmin', function () {
+    return view('dashboardAdmin');
 });
 

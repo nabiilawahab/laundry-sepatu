@@ -70,7 +70,7 @@
             </div>
         </div>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/hero2.jpg">
+        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/2.jpg">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -118,7 +118,7 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Fun Fact</span>
-                            <h2>Pencapaian Kami</h2>
+                            <h2>Company Achievement</h2>
                         </div>
                     </div>
                 </div>

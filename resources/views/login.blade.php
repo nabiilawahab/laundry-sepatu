@@ -1,37 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>Login</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.1/css/bootstrap.rtl.min.css" integrity="sha512-v/0rtuCuKOmpkT153wINc6H7UtLualQIhOpXdmB4Y1KtYBBtg++8UFPyYJBHLmnd2qBbrKvO+eudewymb5FW6w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="assets/css/login.css"/>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Login</title>
+  <!-- base:css -->
+  <link rel="stylesheet" href="assets/js/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="assets/js/vendors/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="css/style2.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="../../images/favicon.png" />
 </head>
+
 <body>
-<div class="container mt-5">
-    <div class="row d-flex justify-content-center">
-        <div class="col-md-6">
-            <div class="card px-5 py-5" id="form1">
-                <div class="form-data" v-if="!submitted">
-                    <div class="forms-inputs mb-4"> <div>Email or username</div> <input autocomplete="off" type="text" v-model="email" v-bind:class="{'form-control':true, 'is-invalid' : !validEmail(email) && emailBlured}" v-on:blur="emailBlured = true">
-                        <div class="invalid-feedback">A valid email is required!</div>
-                    </div>
-<<<<<<< HEAD
-                    <div class="forms-inputs mb-4"> <div>Password</div> <input autocomplete="off" type="password" v-model="password" v-bind:class="{'form-control':true, 'is-invalid' : !validPassword(password) && passwordBlured}" v-on:blur="passwordBlured = true">
-                        <div class="invalid-feedback">Password must be 8 character!</div>
-=======
-                    <div class="forms-inputs col-9 mb-4"> <span>Password</span> <input autocomplete="off" type="password" v-model="password" v-bind:class="{'form-control':true, 'is-invalid' : !validPassword(password) && passwordBlured}" v-on:blur="passwordBlured = true">
-                        <div class="invalid-feedback">Password must be more than 8 character!</div>
->>>>>>> 583c4311d9b0150834ae0a189514bbc1cf55b22f
-                    </div>
-                    <div class="mb-3"> <button v-on:click.stop.prevent="submit" class="btn btn-dark w-100">Login</button> </div>
+  <div class="container-scroller d-flex">
+    <div class="container-fluid page-body-wrapper full-page-wrapper d-flex">
+      <div class="content-wrapper d-flex align-items-center auth px-0">
+        <div class="row w-100 mx-0">
+          <div class="col-lg-4 mx-auto">
+            <div class="auth-form-light text-left py-5 px-4 px-sm-5">
+              <h4>Hello! let's get started</h4>
+              <h6 class="font-weight-light">Sign in to continue.</h6>
+              <form class="pt-3">
+                <div class="form-group">
+                  <input type="email" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="Username">
                 </div>
-                <div class="success-data" v-else>
-                    <div class="text-center d-flex flex-column"> <i class='bx bxs-badge-check'></i> <span class="text-center">BarokahLS <br> </span> </div>
+                <div class="form-group">
+                  <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password">
                 </div>
+                <div class="mt-3">
+                  <a class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" href="/dashboardAdmin">SIGN IN</a>
+                </div>
+                <div class="my-2 d-flex justify-content-between align-items-center">
+                  <div class="form-check">
+                    <label class="form-check-label text-muted">
+                      <input type="checkbox" class="form-check-input">
+                      Keep me signed in
+                    </label>
+                  </div>
+                  <a href="#" class="auth-link text-black">Forgot password?</a>
+                </div>
+                <div class="mb-2">
+                  <button type="button" class="btn btn-block btn-facebook auth-form-btn">
+                    <i class="mdi mdi-facebook mr-2"></i>Connect using facebook
+                  </button>
+                </div>
+                <div class="text-center mt-4 font-weight-light">
+                  Don't have an account? <a href="register.html" class="text-primary">Create</a>
+                </div>
+              </form>
             </div>
+          </div>
         </div>
+      </div>
+      <!-- content-wrapper ends -->
     </div>
-</div>
-<script src="assets/js/javascript.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.1/js/bootstrap.min.js" integrity="sha512-vyRAVI0IEm6LI/fVSv/Wq/d0KUfrg3hJq2Qz5FlfER69sf3ZHlOrsLriNm49FxnpUGmhx+TaJKwJ+ByTLKT+Yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+  <!-- base:js -->
+  <script src="assets/js/vendors/js/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- inject:js -->
+  <script src="js2/off-canvas.js"></script>
+  <script src="js2/hoverable-collapse.js"></script>
+  <script src="js2/template.js"></script>
+  <!-- endinject -->
 </body>
+
 </html>
