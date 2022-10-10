@@ -14,8 +14,13 @@
                     <div class="forms-inputs mb-4"> <div>Email or username</div> <input autocomplete="off" type="text" v-model="email" v-bind:class="{'form-control':true, 'is-invalid' : !validEmail(email) && emailBlured}" v-on:blur="emailBlured = true">
                         <div class="invalid-feedback">A valid email is required!</div>
                     </div>
+<<<<<<< HEAD
                     <div class="forms-inputs mb-4"> <div>Password</div> <input autocomplete="off" type="password" v-model="password" v-bind:class="{'form-control':true, 'is-invalid' : !validPassword(password) && passwordBlured}" v-on:blur="passwordBlured = true">
                         <div class="invalid-feedback">Password must be 8 character!</div>
+=======
+                    <div class="forms-inputs col-9 mb-4"> <span>Password</span> <input autocomplete="off" type="password" v-model="password" v-bind:class="{'form-control':true, 'is-invalid' : !validPassword(password) && passwordBlured}" v-on:blur="passwordBlured = true">
+                        <div class="invalid-feedback">Password must be more than 8 character!</div>
+>>>>>>> 583c4311d9b0150834ae0a189514bbc1cf55b22f
                     </div>
                     <div class="mb-3"> <button v-on:click.stop.prevent="submit" class="btn btn-dark w-100">Login</button> </div>
                 </div>
