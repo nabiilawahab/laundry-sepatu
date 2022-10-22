@@ -56,7 +56,7 @@
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/services">Services</a></li>
                                     <li><a href="/contact">Contact</a></li>
-
+                                    <li><a href="/testimoni">Testimoni</a></li>
                                         </ul>
                                     </li>
                                     <li  class="active"><a href="contact.html">Contact</a></li>
@@ -79,7 +79,7 @@
     </header>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/4.jpg">
+        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/hero2.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -157,29 +157,39 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="contact-title">Get in Touch</h2>
+                        <h2 class="contact-title">order / booking</h2>
                     </div>
                     <div class="col-lg-8">
                         <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
                             <div class="row">
                                 <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" placeholder=" Enter Message"></textarea>
-                                    </div>
+                                    
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" placeholder="Enter your name">
+                                    </div>
+                            
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="call number" id="call number" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your call number'" placeholder="Enter your call number">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">
                                     </div>
+                               
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="address" id="name" type="address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your address'" placeholder="Enter your address">
+                                    </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-group">
-                                        <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Enter Subject">
+                                        <input class="form-control" name="shoes type" id="shoes type" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'shoes type'" placeholder="shoes type">
                                     </div>
                                 </div>
                             </div>
@@ -192,21 +202,21 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Jl. Gubeng Kertajaya 7j No 16</h3>
-                                <p>Gubeng, Surabaya</p>
+                                <h3>Surabaya, Indonesia</h3>
+                                <p>Gubeng Kertajaya 7j/16</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>0856-4638-2081</h3>
-                                <p>Monday to Friday 9am to 6pm</p>
+                                <h3>0856-4638-2082</h3>
+                                <p>Mon to Fri 9am to 6pm</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>@barokahlaundryshoes</h3>
+                                <h3>barokahls.com</h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
@@ -217,9 +227,8 @@
         <!-- Contact Area End -->
     </main>
     <footer>
-
-<!-- Footer Start-->
-<div class="footer-area footer-padding">
+        <!-- Footer Start-->
+        <div class="footer-area footer-padding">
             <div class="container">
                 <div class="row d-flex justify-content-between">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6">
@@ -231,7 +240,7 @@
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Your shoes dirty? Or has it turned yellow? Don't worry! Barokah Laundry Shoes are the solution! Send your shoes to us and we will clean it until it looks like brandnew shoes</p>
+                                <p>Got dirty shoes? Or has it turned yellow? Don't worry! Barokah laundry shoes are the solution! Trust your shoes to us</p>
                             </div>
                         </div>
                         <!-- social -->
@@ -246,12 +255,13 @@
             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                 <div class="single-footer-caption mb-50">
                     <div class="footer-tittle">
-                        <h4>Layanan Kami </h4>
+                        <h4>Services </h4>
                         <ul>
                             <li><a href="#">- Deep Cleansing</a></li>
                             <li><a href="#">- Whitening</a></li>
                             <li><a href="#">- Fast Cleansing</a></li>
                             <li><a href="#">- Repaint</a></li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -259,11 +269,12 @@
             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                 <div class="single-footer-caption mb-50">
                     <div class="footer-tittle">
-                        <h4>Get in touch</h4>
+                        <h4>Get In Touch</h4>
                         <ul>
                             <li class="number"><a href="#">0856-4638-2081 </a></li>
                             <li><a href="#">Instagram: @barokahlaundryshoes</a></li>
                             <li><a href="#">Line: @barokahLS</a></li>
+                            <li><a href="#">Email: @barokahls@gmail.com</a></li>
                             <li><a href="#">Addres: jl Gubeng Kertajaya 7J/16- Gubeng-Surabaya</a></li>
                         </ul>
                     </div>
@@ -280,7 +291,7 @@
                <div class="col-xl-12 ">
                    <div class="footer-copy-right text-center">
                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> <a href="https://colorlib.com" target="_blank"></a>
                           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                       </div>
                   </div>

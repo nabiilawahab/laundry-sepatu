@@ -14,17 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('landing');
-});
-
-Route::get('/home', function () {
-    return view('landing');
+    return view('home');
 });
 
 Route::get('/about', function () {
-    return view('landabout');
+    return view('about');
 });
-
 Route::get('/contact', function () {
     return view('contact');
 });
@@ -37,7 +32,27 @@ Route::get('/testimoni', function () {
 Route::get('/login', function () {
     return view('login');
 });
-Route::get('/dashboardAdmin', function () {
-    return view('dashboardAdmin');
+Route::get('/dashboardadmin', function () {
+    return view('dashboardadmin');
 });
-
+Route::get('/profileadmin', function () {
+    return view('profileadmin');
+});
+Route::get('/sign-inadmin', function () {
+    return view('sighn-inadmin');
+});
+Route::get('/kategoriLayanan', function () {
+    return view('kategoriLayanan');
+});
+Route::get('/admin', function () {
+    return view('index');
+});
+Route::get('/tabelcustomer', function () {
+    return view('tabelcustomer');
+});
+Route::get('/tabelcatalog', function () {
+    return view('catalog');
+});
+Route::get('/tabelstatus', function () {
+    return view('tabelstatus');
+});

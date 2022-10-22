@@ -56,6 +56,10 @@
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/services">Services</a></li>
                                     <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/testimoni">Testimoni</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -75,7 +79,7 @@
     </header>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/3.jpg">
+        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/hero3.jpg">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -96,7 +100,7 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Our Process</span>
-                            <h2>This is how we work</h2>
+                            <h2>How We Work</h2>
                         </div>
                     </div>
                 </div>
@@ -108,7 +112,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">We Collect Your Shoes</a></h5>
-                                <p>Anda dapat mengirimkan sepatu yang perlu pencucian ke store kami</p>
+                                <p>You can send shoes that need washing to our store</p>
                             </div>
                         </div>
                     </div>
@@ -118,8 +122,8 @@
                                 <img src="assets/img/icon/services-icon2.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Wash Your Shoes</a></h5>
-                                <p>Proses ini berlangsung setelah sepatu anda telah kami terima.</p>
+                                <h5><a href="services.html">Shoes Washing Process</a></h5>
+                                <p>This process takes place after we have received your shoes.</p>
                             </div>
                         </div>
                     </div>
@@ -129,8 +133,8 @@
                                 <img src="assets/img/icon/services-icon3.svg" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Your shoes clean like brandnew!</a></h5>
-                                <p>Anda bisa langsung mengambil sepatu yang telah bersih di store kami.</p>
+                                <h5><a href="services.html">Your shoes are as clean as new!</a></h5>
+                                <p>You can immediately pick up clean shoes at our store.</p>
                             </div>
                         </div>
                     </div>
@@ -163,7 +167,7 @@
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.html">Deep Cleansing</a></h5>
-                                    <p>Treatment untuk semua jenis sepatu dengan membersihkan noda secara detail pada seluruh bagian dan aman untuk semua bahan</p>
+                                    <p>Treatment for all types of shoes by cleaning stains in detail on all parts and safe for all materials</p>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +180,7 @@
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.html">Whitening</a></h5>
-                                    <p>Treatment pencucian khusus untuk sepatu berbahan canvas dan mesh berwarna putih dengan noda kuning ataupun saus</p>
+                                    <p>Special washing treatment for white canvas and mesh shoes with yellow or sauce stains</p>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +203,7 @@
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.html">Fast Cleansing</a></h5>
-                                    <p>Treatment pencucian cepat dengan material sepatu yang dicuci hanya bagian Upper dan midsole</p>
+                                    <p>Fast washing treatment with shoe material that is washed only the upper and midsole</p>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +216,7 @@
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.html">Repaint</a></h5>
-                                    <p>Treatment pewarnaan untuk sepatu berbahan canvas dan suede</p>
+                                    <p>Coloring treatment for canvas and suede shoes</p>
                                 </div>
                             </div>
                         </div>
@@ -224,8 +228,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
         </section>
         <!-- Offer-services End  -->
         <!--? Want To work -->
@@ -263,7 +265,7 @@
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Your shoes dirty? Or has it turned yellow? Don't worry! Barokah Laundry Shoes are the solution! Send your shoes to us and we will clean it until it looks like brandnew shoes </p>
+                                <p>Got dirty shoes? Or has it turned yellow? Don't worry! Barokah laundry shoes are the solution! Trust your shoes to us</p>
                             </div>
                         </div>
                         <!-- social -->
@@ -278,7 +280,7 @@
             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                 <div class="single-footer-caption mb-50">
                     <div class="footer-tittle">
-                        <h4>Layanan Kami </h4>
+                        <h4>Our service </h4>
                         <ul>
                             <li><a href="#">- Deep Cleansing</a></li>
                             <li><a href="#">- Whitening</a></li>
@@ -296,6 +298,7 @@
                             <li class="number"><a href="#">0856-4638-2081 </a></li>
                             <li><a href="#">Instagram: @barokahlaundryshoes</a></li>
                             <li><a href="#">Line: @barokahLS</a></li>
+                            <li><a href="#">Email: @barokahls@gmail.com</a></li>
                             <li><a href="#">Addres: jl Gubeng Kertajaya 7J/16- Gubeng-Surabaya</a></li>
                         </ul>
                     </div>
@@ -312,7 +315,7 @@
                <div class="col-xl-12 ">
                    <div class="footer-copy-right text-center">
                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i>  <a href="https://colorlib.com" target="_blank"></a>
                           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                       </div>
                   </div>
